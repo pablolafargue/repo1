@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+.navegador{background-color: rgb(199, 197, 197); text-align: right; height: 30px; padding-top: 10px;}
+.anclas{color: blueviolet; margin-left: 10px; margin-right: 5px;  text-decoration: underline; }
+.logo{margin-left: 150px;}
+.html5{background-color:white; margin: 90px;}
+.css3{background-color: white; margin: 90px;}
+.foot{background-color: rgb(199, 197, 197); text-align: center; height: 10px; padding-top: 1px; padding-bottom: 10px;}
+.pie{color: rgb(10, 1, 19); margin-left: 10px; margin-right: 5px; text-decoration:none;  }
+.final{height: 100px; padding-top: 50px;}
+p{background-color: white; margin-left: 150px;; margin-right: 150px; } 
